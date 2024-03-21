@@ -67,7 +67,7 @@ header h1{
 nav {
   background-color: #008CBA;
   padding: 1rem;
-  display:1;
+  display:flex;
   margin-top: 1rem;
 }
 
