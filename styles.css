@@ -75,9 +75,8 @@ nav{
   margin: 0;
   padding: flex;
   align-items: center;
-  width: 100%;
+  border:1 px #808080;
   
-
 }
 
 nav ul {
